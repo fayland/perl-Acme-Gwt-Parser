@@ -11,7 +11,7 @@ __END__
 
 =head1 NAME
 
-Acme::Gwt::Parser - Blah blah blah
+Acme::Gwt::Parser - parse x-gwt-rpc request/response
 
 =head1 SYNOPSIS
 
@@ -19,7 +19,9 @@ Acme::Gwt::Parser - Blah blah blah
 
 =head1 DESCRIPTION
 
-Acme::Gwt::Parser is
+Acme::Gwt::Parser is an incomplete clone for L<https://github.com/andrewcarpenter/gwt_rpc>
+
+just for personal usage.
 
 =head1 AUTHOR
 
@@ -33,7 +35,5 @@ Copyright 2013- Fayland Lam
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself.
-
-=head1 SEE ALSO
 
 =cut
